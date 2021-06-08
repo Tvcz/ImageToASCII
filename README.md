@@ -1,5 +1,5 @@
 # ImageToASCII
-An image to text converter that focuses on the accurate translation of edges and uses whitespace liberally. Proper viewing of text requires a sufficiently wide text editor with a monospaced font. Written in Python.
+An image to text converter that attempts to accurately recreate shapes using edge detection. Includes liberal use of whitespace. Works best on high-contrast, relatively uncomplicated images. Proper viewing of text requires a sufficiently wide text editor with a monospaced font. Written in Python.
 
 Feel free to submit pull requests with new features/QOL improvements. Currently, I'd like to improve how it handles inputs and add options for processing gifs and videos.
 
