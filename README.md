@@ -5,7 +5,6 @@ Feel free to submit pull requests with new features/QOL improvements. Currently 
 
 
 <br />
-<br />
 
 
 ### Examples:
