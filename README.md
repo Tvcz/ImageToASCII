@@ -4,8 +4,8 @@ An image to text converter that focuses on the accurate translation of edges and
 Feel free to submit pull requests with new features/QOL improvements. Currently I'd like to improve how it handles inputs and add options for processing gifs and videos.
 
 
-<br \>
-<br \>
+<br />
+<br />
 
 
 ### Examples:
@@ -57,7 +57,7 @@ _                  `     :   `  _     .   )OQWPMPQMQ_F_KZgm%W9Q8g%.`   +~.   .  
 ```
 
 
-<br \>
+<br />
 
 #### Input:
 ![Durin's Door](https://github.com/Tvcz/ImageToASCII/blob/main/Samples/door.jpg?raw=true)
