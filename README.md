@@ -5,12 +5,20 @@ Feel free to submit pull requests with new features/QOL improvements. Currently 
 
 
 
-###Examples:
 
-####Input:
+
+
+
+
+
+
+
+### Examples:
+
+#### Input:
 ![Star Destroyer](https://github.com/Tvcz/ImageToASCII/blob/main/Samples/star_destroyer.jpg?raw=true)
 
-####Output:
+#### Output:
 ```text
              ' ~ *   .     .                ..              . *           * ..                 '      '                   . 
    `     =           .'    *'   *             `       `                   *~  -           .                ~                
@@ -56,10 +64,10 @@ _                  `     :   `  _     .   )OQWPMPQMQ_F_KZgm%W9Q8g%.`   +~.   .  
 
 
 
-####Input:
+#### Input:
 ![Durin's Door](https://github.com/Tvcz/ImageToASCII/blob/main/Samples/door.jpg?raw=true)
 
-####Output:
+#### Output:
 ```text
 _#=>>~>~~~~~~~+++______________________________________________________________
 JL                            _.    _@W,.%QF    .                             J
